@@ -1,0 +1,13 @@
+# Environnement virtuel (ne pas versionner)
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers système / éditeur
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
